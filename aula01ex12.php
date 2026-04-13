@@ -1,12 +1,13 @@
 <?php
-$texto = 'O PHP é uma linguagem serve-side.';
+$texto = 'A caixa d'agua está  transbordando.';
 ?>
+
 <html>
-    <haed>
-        <title>String com aspas simples no PHP</title>
-</head>
+<head>
+<title>String com aspas simples no PHP</title>
+<head>
 
 <body>
-    <p><?php echo $texto; ?></p>
-</body>
+<p>php echo $texto; ?></p>
+</bod>
 </html>
